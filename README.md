@@ -98,12 +98,6 @@ Across all projects, proper **exploratory data analysis (EDA)** and **feature en
 - Model Evaluation
 
 ---
-
-## 📌 Final Note
-
-These projects highlight real-world applications of ML with a strong emphasis on **model interpretability**, **performance**, and **deployment** through **Streamlit** and **API integrations**.
-
----
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share with attribution.
