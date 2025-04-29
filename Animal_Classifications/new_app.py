@@ -5,7 +5,7 @@ from PIL import Image
 
 CLIENT = InferenceHTTPClient(
     api_url="https://detect.roboflow.com",
-    api_key="ta6zPaogMQhbfhca1mKP"
+    api_key="your_api_key" #Use your ROBOFLOW API KEY 
 )
 
 
