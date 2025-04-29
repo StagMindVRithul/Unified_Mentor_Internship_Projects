@@ -63,7 +63,6 @@ Unified_Mentor_Internship_Projects/
 
 ## 🕵️ Fraud Detection
 
-### ✅ Conclusion:
 📌 **Best Choice: CatBoost**
 
 - Excellent balance of **Precision (0.56)** and **Recall (0.92)**.
