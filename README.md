@@ -37,6 +37,7 @@ Unified_Mentor_Internship_Projects/
   streamlit run new_app.py
   ```
 - The `new_app.py` utilizes `InferenceHTTPClient` with `api_url` and `api_key` for real-time inference.
+- So try to get the `ROBOFLOW API KEY` and then add it in the code to properly run it.
 
 ---
 
