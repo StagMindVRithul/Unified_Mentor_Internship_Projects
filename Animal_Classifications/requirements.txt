@@ -1,0 +1,9 @@
+numpy 
+pandas 
+matplotlib
+scikit-learn
+ipykernel
+notebook
+streamlit
+tensorflow
+inference_sdk

@@ -1,0 +1,14 @@
+numpy 
+pandas 
+matplotlib
+seaborn 
+plotly
+scikit-learn
+missingno
+ipykernel
+notebook
+streamlit
+xgboost
+lightgbm
+catboost
+shap
